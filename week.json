@@ -1,5 +1,4 @@
-{
-	"week": [{
+[{
 			"PRODUCT": "Aisle",
 			"WEEK_COMMENCING": "2017-08-30",
 			"EXPOSED": 469645,
@@ -396,4 +395,3 @@
 			"CONTROL": 9375
 		}
 	]
-}
