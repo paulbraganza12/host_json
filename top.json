@@ -1,5 +1,4 @@
-{
-	"top": [{
+[{
 			"METRIC": "Spend",
 			"PRODUCT": "Offer",
 			"EXPOSED": 62717.14,
@@ -96,4 +95,3 @@
 			"PCT_UPLIFT": 0.06
 		}
 	]
-}
